@@ -1,0 +1,50 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/Editor/QuickLayouts.meta
+Assets/Editor/QuickLayouts/QuickLayouts.dll
+Assets/Editor/QuickLayouts/QuickLayouts.dll.meta
+Assets/Editor/QuickLayouts/QuickLayoutsReadme.txt
+Assets/Editor/QuickLayouts/QuickLayoutsReadme.txt.meta
+Assets/plugins/Metro.meta
+Assets/plugins/WP8.meta
+Assets/Scripts/Configs.meta
+Assets/Scripts/SMFrameworks/Ads.meta
+Assets/Scripts/SMFrameworks/Analytics.meta
+Assets/Scripts/SMFrameworks/RateGame.meta
+Assets/Scripts/SMFrameworks/Analytics/MAT.meta
+Assets/Scenes/Levels/Area2/test1.unity
+Assets/Scenes/Levels/Area2/test1.unity.meta
+
+/Builds
+/iOS
+/Android
+*.apk
